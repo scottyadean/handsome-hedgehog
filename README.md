@@ -1,4 +1,4 @@
 handsome-hedgehog
 =================
 
-A really simple javascript based adjitive - animal release naming script.
+A javascript based adjective-animal random release name generator.
